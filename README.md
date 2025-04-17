@@ -48,11 +48,11 @@ Hi! I'm Thomas, a 17-year-old incoming Computer Engineering student at the Unive
 - 📝 [Journal App](https://github.com/AWoodenshoe/journal-app)  
   A full-stack React + Express journal app with file-based persistence — no DB needed!
 
-- 🗺️ [Landmark Verifier](https://github.com/your/landmark-verifier)  
+- 🗺️ [Landmark Verifier](https://github.com/Kushagra-Pant/eureka2025)  
   Built during a hackathon — verifies photo location using Overpass API + Google Street View
 
 ---
 
 ### 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 📫 Email: thomasduong@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/hai-phong-duong/)
+- 📫 Email: thomas.duongh@gmail.com
