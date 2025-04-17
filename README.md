@@ -1,16 +1,48 @@
-## Hi there 👋
+# AWoodenshoe
 
-<!--
-**AWoodenshoe/AWoodenshoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Thomas, a 17-year-old incoming Computer Engineering student at the University of Waterloo, passionate about building fun, useful, and creative things with code 👨‍💻
 
-Here are some ideas to get you started:
+- 🔨 Currently building full-stack apps with React, Node.js, and Express
+- 🚀 Learning backend fundamentals, MongoDB, and deployment workflows
+- 🧠 Interested in APIs, automation, robotics, and cool side projects
+- 🎯 Goal: Land a SWE internship before first year ends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Achievements
+- 💡 Built a landmark-verifying app using Leaflet, Google Street View, and Overpass API
+- 🥇 Led Halton’s largest engineering hackathon (~150 participants, $10,000 sponsorship)
+- 🧠 President of my high school’s computer engineering club
+- 🤝 Volunteered at local food banks since Grade 9
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 📝 [Journal App](https://github.com/AWoodenshoe/journal-app)  
+  A full-stack React + Express journal app with file-based persistence — no DB needed!
+
+- 🗺️ [Landmark Verifier](https://github.com/your/landmark-verifier)  
+  Built during a hackathon — verifies photo location using Overpass API + Google Street View
+
+---
+
+### 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 📫 Email: thomasduong@email.com
