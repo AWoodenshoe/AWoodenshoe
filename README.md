@@ -2,9 +2,9 @@
 
 Hi! I'm Thomas, a 17-year-old incoming Computer Engineering student at the University of Waterloo, passionate about building fun, useful, and creative things with code 👨‍💻
 
-- 🔨 Currently building full-stack apps with React (+ Tailwind CSS), Node.js, and Express
-- 🚀 Learning backend fundamentals, MongoDB, and deployment workflows
-- 🧠 Interested in APIs, automation, robotics, and cool side projects
+- 🔨 Building full-stack projects with the MERN stack (MongoDB, Express, React, Node.js) and Tailwind CSS  
+- 🚀 Confident with backend fundamentals, API integration, and modern deployment workflows  
+- 💼 Actively looking for internships or real-world projects — open to remote opportunities
 
 ---
 
