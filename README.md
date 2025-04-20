@@ -47,7 +47,7 @@ Hi! I'm Thomas, a 17-year-old incoming Computer Engineering student at the Unive
 ### 📌 Featured Projects
 
 - 📝 [Journal App](https://github.com/AWoodenshoe/journal-app)  
-A full-stack React + Express journal app with custom `id` logic, MongoDB integration, and a dark-themed UI.
+A full-stack React + Express journal app with custom `id` logic, **MongoDB** integration, and a dark-themed UI.
 CRUD operations, RESTful API, styled with Tailwind CSS.
 
 - 🗺️ [Landmark Verifier](https://github.com/Kushagra-Pant/eureka2025)  
