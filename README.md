@@ -7,7 +7,7 @@ Hi! I'm Thomas, a 17-year-old incoming Computer Engineering student at the Unive
 - 💼 Actively looking for internships or real-world projects — open to remote opportunities
 
 ---
-
+ 
 ### 🏆 Achievements
 - 💡 Built a landmark-verifying app using Leaflet, Google Street View, and Overpass API
 - 🥇 Led Halton’s largest engineering hackathon (~150 participants, $10,000 sponsorship)
