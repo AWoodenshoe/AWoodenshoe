@@ -26,6 +26,9 @@ Hi! I'm Thomas, a 17-year-old incoming Computer Engineering student at the Unive
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 
+  <!-- Auth -->
+  <img src="https://static.cdnlogo.com/logos/j/20/jwt.svg" width="40" />
+
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -45,6 +48,9 @@ Hi! I'm Thomas, a 17-year-old incoming Computer Engineering student at the Unive
 ---
 
 ### 📌 Featured Projects
+
+- 📬 [Hackathon Signup Platform](https://github.com/AWoodenshoe/hackathon-signup)  
+A full-stack MERN app with **JWT authentication**, **refresh token rotation**, and a beautiful dark-themed UI. Includes admin dashboard with role-based access, RSVP tracking, and real-time API health monitoring — built for organizing and analyzing hackathon registrations.
 
 - 📝 [Journal App](https://github.com/AWoodenshoe/journal-app)  
 A full-stack React + Express journal app with custom `id` logic, **MongoDB** integration, and a dark-themed UI.
