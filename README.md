@@ -1,6 +1,6 @@
 # AWoodenshoe
 
-Hi! I'm Thomas, a 17-year-old incoming Computer Engineering student at the University of Waterloo, passionate about building fun, useful, and creative things with code!
+Hi! I'm Thomas, a 18-year-old incoming Computer Engineering student at the University of Waterloo, passionate about building fun, useful, and creative things with code!
 
 ### ⚙️ Tech Stack & Tools
 
