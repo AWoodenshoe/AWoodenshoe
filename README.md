@@ -33,3 +33,9 @@ Hi! I'm Thomas, a 18-year-old incoming Computer Engineering student at the Unive
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 ---
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kushagra-pant&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra-pant&theme=github-dark-blue" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-pant&layout=compact&theme=github_dark" />
+</p>
